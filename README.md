@@ -5,7 +5,7 @@
 <div align="center">
   <p><samp>✦ &nbsp; O P U S &nbsp; C O D E R &nbsp; ✦</samp></p>
   <h1>opus</h1>
-  <p><strong>Пишу скрипты и утилиты на Python, C#</strong></p>
+  <p><strong>Programmer on Python and C#, AI Prompt Engineer.</strong></p>
   <p><a href="https://github.com/opuscoder?tab=repositories">Все репозитории ↗</a></p>
 </div>
 
