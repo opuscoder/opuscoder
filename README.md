@@ -9,7 +9,7 @@
   <p><a href="https://github.com/opuscoder?tab=repositories">Все репозитории ↗</a></p>
 </div>
 
-## Избранные проекты
+## Проекты
 
 ### [discordverify](https://github.com/opuscoder/discordverify)
 
