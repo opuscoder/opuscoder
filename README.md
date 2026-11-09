@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <p><samp>✦ &nbsp; W I N T E R &nbsp; T E R M I N A L &nbsp; ✦</samp></p>
+  <p><samp>✦ &nbsp; O P U S &nbsp; C O D E R &nbsp; ✦</samp></p>
   <h1>opus</h1>
   <p><strong>Пишу скрипты и утилиты на Python, C#</strong></p>
   <p><a href="https://github.com/opuscoder?tab=repositories">Все репозитории ↗</a></p>
