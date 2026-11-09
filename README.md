@@ -5,7 +5,7 @@
 <div align="center">
   <p><samp>✦ &nbsp; W I N T E R &nbsp; T E R M I N A L &nbsp; ✦</samp></p>
   <h1>opus</h1>
-  <p><strong>Пишу ботов и утилиты на Python для Discord и Telegram.</strong></p>
+  <p><strong>Пишу скрипты и утилиты на Python, C#</strong></p>
   <p><a href="https://github.com/opuscoder?tab=repositories">Все репозитории ↗</a></p>
 </div>
 
